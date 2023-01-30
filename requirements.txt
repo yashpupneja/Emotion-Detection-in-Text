@@ -6,3 +6,4 @@ neattext
 sklearn
 joblib
 altair
+sklearn.feature_extraction.text
