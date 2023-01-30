@@ -4,3 +4,5 @@ matplotlib
 seaborn
 neattext
 sklearn
+joblib
+altair
